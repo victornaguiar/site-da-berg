@@ -67,7 +67,7 @@ export default function RootLayout({ children }) {
 
         <main>
           <div className="relative h-[65vh] w-full overflow-hidden rounded-b-lg">
-            <img src="/bg.png" alt="Hero Hintergrund" className="h-full w-full object-cover" />
+            <img src="/berg.png" alt="Hero Hintergrund" className="h-full w-full object-cover" />
             {/* Dunkler Verlauf für bessere Lesbarkeit */}
             <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-black/5 to-transparent"></div>
             <div className="absolute inset-0 flex flex-col justify-center px-6 md:px-12">
